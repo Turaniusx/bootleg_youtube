@@ -1,0 +1,38 @@
+body {
+    font-family: Roboto Flex;
+
+}
+.searchBar {
+   display: inline-block;
+    
+}
+.divMain {
+    vertical-align: top;
+    display: inline-block;
+    width: 300px;
+    margin-right: 12px;
+    line-height: 22px;
+}
+.thumbnails {
+    width: 300px;
+    display: inline-block;
+}
+.profPic {
+    width: 40px;
+    border-radius: 30px;
+    display: inline-block;
+    margin-top: 12px;
+}
+.vTitle {
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 12px;
+
+
+}
+.vStats {
+    display: inline-block;
+    margin-left: 7ch;
+    font-size: 12px;
+    color: rgb(59, 59, 59);
+}
